@@ -1,5 +1,3 @@
-# code-snippet
-
 # Prettier Configuration Guide
 
 This document contains some available Prettier configuration options with their descriptions.
